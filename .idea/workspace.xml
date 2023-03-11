@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="83c69128-93bf-4ba9-b8b9-8008e0918fd2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/example/estructurasDeControl/condicionales/Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/estructurasDeControl/repeticion/For.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/estructurasDeControl/repeticion/ForEach.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,13 +43,13 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Switch">
-    <configuration name="Funciones" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="funciones.Funciones" />
+  <component name="RunManager" selected="Application.ForEach">
+    <configuration name="For" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.estructurasDeControl.repeticion.For" />
       <module name="OpenBootcampJavaBasico2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="funciones.*" />
+          <option name="PATTERN" value="com.example.estructurasDeControl.repeticion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -56,12 +57,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="If" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.estructurasDeControl.condicionales.If" />
+    <configuration name="ForEach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.estructurasDeControl.repeticion.ForEach" />
       <module name="OpenBootcampJavaBasico2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.estructurasDeControl.condicionales.*" />
+          <option name="PATTERN" value="com.example.estructurasDeControl.repeticion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ForEach" />
+        <item itemvalue="Application.For" />
         <item itemvalue="Application.Switch" />
         <item itemvalue="Application.IfElseIf" />
         <item itemvalue="Application.IfElse" />
-        <item itemvalue="Application.If" />
-        <item itemvalue="Application.Funciones" />
       </list>
     </recent_temporary>
   </component>
